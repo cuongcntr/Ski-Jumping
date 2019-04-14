@@ -1,0 +1,15 @@
+﻿  main.c
+c:\users\hoang cuong\source\repos\projectskijumping_hoang_cuong\projectskijumping_hoang_cuong\main.c(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\hoang cuong\source\repos\projectskijumping_hoang_cuong\projectskijumping_hoang_cuong\main.c(46): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\hoang cuong\source\repos\projectskijumping_hoang_cuong\projectskijumping_hoang_cuong\main.c(100): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hoang cuong\source\repos\projectskijumping_hoang_cuong\projectskijumping_hoang_cuong\main.c(105): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hoang cuong\source\repos\projectskijumping_hoang_cuong\projectskijumping_hoang_cuong\main.c(106): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hoang cuong\source\repos\projectskijumping_hoang_cuong\projectskijumping_hoang_cuong\main.c(108): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hoang cuong\source\repos\projectskijumping_hoang_cuong\projectskijumping_hoang_cuong\main.c(109): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hoang cuong\source\repos\projectskijumping_hoang_cuong\projectskijumping_hoang_cuong\main.c(110): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hoang cuong\source\repos\projectskijumping_hoang_cuong\projectskijumping_hoang_cuong\main.c(111): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hoang cuong\source\repos\projectskijumping_hoang_cuong\projectskijumping_hoang_cuong\main.c(112): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\hoang cuong\source\repos\projectskijumping_hoang_cuong\projectskijumping_hoang_cuong\main.c(114): warning C4305: '=': truncation from 'double' to 'float'
+  ProjectSkiJumping_Hoang_Cuong.vcxproj -> C:\Users\Hoang Cuong\source\repos\ProjectSkiJumping_Hoang_Cuong\Debug\ProjectSkiJumping_Hoang_Cuong.exe
